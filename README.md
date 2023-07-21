@@ -46,8 +46,9 @@
 ![Screenshot 2023-07-21 at 2 18 20 PM](https://github.com/AbdAllahKhodeir/ML-Market-Analysis-App/assets/25985196/0d4713a5-1a33-4566-b51e-a9cbee10fa26)
 ![Screenshot 2023-07-21 at 2 18 13 PM](https://github.com/AbdAllahKhodeir/ML-Market-Analysis-App/assets/25985196/5e9306dc-37b9-4541-9ed8-76ff283fc859)
 ![Screenshot 2023-07-21 at 2 18 06 PM](https://github.com/AbdAllahKhodeir/ML-Market-Analysis-App/assets/25985196/0430ecf0-fe0e-41c7-a2b3-b1493a89dced)
-![Uploading Screenshot 2023-07-21 at 2.17.57 PM.png…]()
-![Uploading Screenshot 2023-07-21 at 2.17.49 PM.png…]()
+![Screenshot 2023-07-21 at 2 17 49 PM](https://github.com/AbdAllahKhodeir/ML-Market-Analysis-App/assets/25985196/4a1aa067-3d20-4192-ad8f-e7b300a2cfdc)
+![Screenshot 2023-07-21 at 2 17 57 PM](https://github.com/AbdAllahKhodeir/ML-Market-Analysis-App/assets/25985196/66c0d21e-868b-4259-bf53-5e92a34d4c49)
 ![Screenshot 2023-07-21 at 2 18 29 PM](https://github.com/AbdAllahKhodeir/ML-Market-Analysis-App/assets/25985196/484932b2-9524-4562-8fda-984ec0108dae)
-![Uploading Screenshot 2023-07-21 at 2.18.38 PM.png…]()
+![Screenshot 2023-07-21 at 2 18 38 PM](https://github.com/AbdAllahKhodeir/ML-Market-Analysis-App/assets/25985196/910a6a9b-6d65-4f3a-b4c0-3ed2bf898eb3)
+
 
